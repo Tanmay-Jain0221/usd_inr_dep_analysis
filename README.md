@@ -236,3 +236,7 @@ This repository is intended for:
 - readers interested in historical currency behaviour,
 - analysts evaluating INR risk through regimes rather than spot levels,
 - practitioners seeking a transparent, rule-based stress framework.
+
+---
+
+### Note: The code is MIT-licensed. The written analysis and narrative interpretation are not intended for commercial reuse without permission.
