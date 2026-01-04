@@ -4,7 +4,7 @@ This repository contains a historical, data-driven analysis of INR–USD depreci
 
 The objective is not to forecast the exchange rate or identify short-term trading signals. Instead, the analysis places recent INR movements in historical context and evaluates whether current depreciation resembles past periods of genuine stress.
 
-This work underpins an accompanying Substack post and is designed to be transparent, reproducible, and methodologically defensible.
+This work underpins an accompanying Substack post.
 
 ---
 
@@ -238,5 +238,6 @@ This repository is intended for:
 - practitioners seeking a transparent, rule-based stress framework.
 
 ---
+
 
 ### Note: The code is MIT-licensed. The written analysis and narrative interpretation are not intended for commercial reuse without permission.
